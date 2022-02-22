@@ -1,0 +1,29 @@
+{
+  "name": "skr-canvasback",
+  "version": "1.0.0",
+  "description": "My second backend application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SallyResch/skr-canvasBack.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "SKR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SallyResch/skr-canvasBack/issues"
+  },
+  "homepage": "https://github.com/SallyResch/skr-canvasBack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "healthcheck": "^0.1.3"
+  }
+}
