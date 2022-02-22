@@ -1,0 +1,12 @@
+{
+  "name": "skr-canvasBack",
+  "description": "Javascript Backend",
+  "repository": "https://github.com/SallyResch/skr-canvasBack",
+  "logo": "http://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": [
+    "node",
+    "express",
+    "heroku"
+  ],
+  "image": "heroku/nodejs"
+}

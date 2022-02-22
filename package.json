@@ -4,11 +4,7 @@
   "description": "My second backend application",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SallyResch/skr-canvasBack.git"
+    "start": "node app.js"
   },
   "keywords": [
     "node",
@@ -17,13 +13,20 @@
   ],
   "author": "SKR",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SallyResch/skr-canvasBack/issues"
-  },
-  "homepage": "https://github.com/SallyResch/skr-canvasBack#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "healthcheck": "^0.1.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/SallyResch/skr-canvasBack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SallyResch/skr-canvasBack.git"
+  },
+  "engines": {
+    "node": "17.x"
+  },
+  "homepage": "https://github.com/SallyResch/skr-canvasBack#readme"
 }
